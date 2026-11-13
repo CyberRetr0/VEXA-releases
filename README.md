@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CyberRetr0/Vortez-releases/releases/latest/download/Vortez-Setup.exe">
+  <a href="https://github.com/CyberRetr0/VEXA-releases/releases/latest/download/VEXA-Setup.exe">
     <img src="https://img.shields.io/badge/Download-VEXA%20for%20Windows-7c3aed?style=for-the-badge&logo=windows&logoColor=white" alt="Download VEXA for Windows">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/CyberRetr0/Vortez-releases/releases/latest"><img src="https://img.shields.io/github/v/release/CyberRetr0/Vortez-releases?label=latest&color=c084fc" alt="Latest version"></a>
-  <a href="https://github.com/CyberRetr0/Vortez-releases/releases"><img src="https://img.shields.io/github/downloads/CyberRetr0/Vortez-releases/total?color=7c3aed" alt="Downloads"></a>
+  <a href="https://github.com/CyberRetr0/VEXA-releases/releases/latest"><img src="https://img.shields.io/github/v/release/CyberRetr0/VEXA-releases?label=latest&color=c084fc" alt="Latest version"></a>
+  <a href="https://github.com/CyberRetr0/VEXA-releases/releases"><img src="https://img.shields.io/github/downloads/CyberRetr0/VEXA-releases/total?color=7c3aed" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4" alt="Windows 10 and 11">
 </p>
 
@@ -48,7 +48,7 @@
 
 ## Download and install
 
-1. Download **[Vortez-Setup.exe](https://github.com/CyberRetr0/Vortez-releases/releases/latest/download/Vortez-Setup.exe)**.
+1. Download **[VEXA-Setup.exe](https://github.com/CyberRetr0/VEXA-releases/releases/latest/download/VEXA-Setup.exe)**.
 2. Run it. It installs for your Windows user only and needs no admin rights.
 3. VEXA updates itself: it checks for a new version every time it starts. You can turn automatic updates off in **Settings → About**.
 
@@ -62,6 +62,6 @@
 
 ## Problems or ideas
 
-Open an [issue](https://github.com/CyberRetr0/Vortez-releases/issues), or use **Settings → Report a problem** in the app. It makes a zip of the logs you can attach.
+Open an [issue](https://github.com/CyberRetr0/VEXA-releases/issues), or use **Settings → Report a problem** in the app. It makes a zip of the logs you can attach.
 
 <p align="center"><sub>Made by Phant0m</sub></p>
