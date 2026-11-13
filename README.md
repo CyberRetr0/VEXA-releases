@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="screens/logo.svg" width="96" alt="Vortez logo">
+  <img src="screens/logo.svg" width="96" alt="VEXA logo">
 </p>
 
-<h1 align="center">Vortez</h1>
+<h1 align="center">VEXA</h1>
+<p align="center"><i>formerly Vortez</i></p>
 
 <p align="center">
   <b>One launcher for every game on your PC.</b><br>
@@ -11,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/CyberRetr0/Vortez-releases/releases/latest/download/Vortez-Setup.exe">
-    <img src="https://img.shields.io/badge/Download-Vortez%20for%20Windows-7c3aed?style=for-the-badge&logo=windows&logoColor=white" alt="Download Vortez for Windows">
+    <img src="https://img.shields.io/badge/Download-VEXA%20for%20Windows-7c3aed?style=for-the-badge&logo=windows&logoColor=white" alt="Download VEXA for Windows">
   </a>
 </p>
 
@@ -49,15 +50,15 @@
 
 1. Download **[Vortez-Setup.exe](https://github.com/CyberRetr0/Vortez-releases/releases/latest/download/Vortez-Setup.exe)**.
 2. Run it. It installs for your Windows user only and needs no admin rights.
-3. Vortez updates itself: it checks for a new version every time it starts. You can turn automatic updates off in **Settings → About**.
+3. VEXA updates itself: it checks for a new version every time it starts. You can turn automatic updates off in **Settings → About**.
 
 ## Safety
 
-- Every update is signed. Vortez refuses any update whose signature does not match the key built into the app.
+- Every update is signed. VEXA refuses any update whose signature does not match the key built into the app.
 - Updates download only over HTTPS from this page.
 - No accounts and no telemetry.
-- Vortez contacts Steam, Wikipedia, PCGamingWiki, iTunes and SteamGridDB for art, descriptions, music and patch notes. Discover reads the public pages of the sources it lists. Downloads start only when you click.
-- Anything Vortez deletes goes to the Recycle Bin. Keys you enter (SteamGridDB, debrid) stay on your PC and are never exported.
+- VEXA contacts Steam, Wikipedia, PCGamingWiki, iTunes and SteamGridDB for art, descriptions, music and patch notes. Discover reads the public pages of the sources it lists. Downloads start only when you click.
+- Anything VEXA deletes goes to the Recycle Bin. Keys you enter (SteamGridDB, debrid) stay on your PC and are never exported.
 
 ## Problems or ideas
 
