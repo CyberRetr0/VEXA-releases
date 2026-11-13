@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">VEXA</h1>
-<p align="center"><i>formerly Vortez</i></p>
 
 <p align="center">
   <b>One launcher for every game on your PC.</b><br>
@@ -11,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CyberRetr0/VEXA-releases/releases/latest/download/VEXA-Setup.exe">
+  <a href="https://github.com/CyberRetr0/VEXA-releases/releases/latest">
     <img src="https://img.shields.io/badge/Download-VEXA%20for%20Windows-7c3aed?style=for-the-badge&logo=windows&logoColor=white" alt="Download VEXA for Windows">
   </a>
 </p>
@@ -32,6 +31,7 @@
 - **Downloads:** direct links, torrents and magnets in the app, with queue, speed limit, resume and a VPN kill switch.
 - **Installers and updates:** an install queue for setup files and archives, plus official patch notes for your games.
 - **FPS overlay, storage view, play stats, save backups,** and a command bar on Ctrl+K.
+- **Light on your PC:** closed to the tray it rests at about 100 MB of RAM and almost no CPU, so it stays out of your games' way.
 
 <table>
   <tr>
@@ -46,9 +46,20 @@
 
 ![Discover](screens/discover.jpg)
 
+## Lightweight
+
+Measured on Windows 11 (Intel i5-14600K, RTX 5080, 64 games in the library), VEXA plus its web view:
+
+| | RAM in use | CPU (whole PC) |
+|---|---|---|
+| **Min:** closed to the tray, even right after heavy use | about 108 MB | 0.01% on average |
+| **Max:** heavy use: trailers playing, Discover, game pages, Big Picture animations | 1.0 GB at the peak (770 MB on average) | 9.7% at the peak (5% on average) |
+
+When you close the window, VEXA pauses its page and hands its memory back to Windows. In the background it only keeps the tray icon, playtime tracking and a light hourly refresh of your download sources.
+
 ## Download and install
 
-1. Download **[VEXA-Setup.exe](https://github.com/CyberRetr0/VEXA-releases/releases/latest/download/VEXA-Setup.exe)**.
+1. Download **VEXA-Setup-&lt;version&gt;.exe** from the [latest release](https://github.com/CyberRetr0/VEXA-releases/releases/latest).
 2. Run it. It installs for your Windows user only and needs no admin rights.
 3. VEXA updates itself: it checks for a new version every time it starts. You can turn automatic updates off in **Settings → About**.
 
