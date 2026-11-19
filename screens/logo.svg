@@ -1,23 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#1a1533"/>
-      <stop offset="1" stop-color="#07080f"/>
-    </linearGradient>
-    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#c084fc"/>
-      <stop offset="1" stop-color="#7c3aed"/>
-    </linearGradient>
-    <linearGradient id="b" x1="1" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#67e8f9"/>
-      <stop offset="1" stop-color="#6366f1"/>
-    </linearGradient>
-  </defs>
-  <rect width="512" height="512" rx="116" fill="url(#bg)"/>
-  <rect x="6" y="6" width="500" height="500" rx="110" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="12"/>
-  <!-- split V monogram: two blades that meet at the point -->
-  <polygon class="vz-l" points="92,118 190,118 256,300 256,414" fill="url(#a)"/>
-  <polygon class="vz-r" points="420,118 322,118 256,300 256,414" fill="url(#b)"/>
-  <!-- the eye of the vortex -->
-  <polygon class="vz-eye" points="256,120 284,148 256,176 228,148" fill="#fff"/>
+  <defs><radialGradient id="g" cx=".5" cy=".35" r=".75"><stop offset="0" stop-color="#0E3A29"/><stop offset="1" stop-color="#04140E"/></radialGradient></defs>
+  <rect width="512" height="512" rx="112" fill="url(#g)"/>
+  <rect x="6" y="6" width="500" height="500" rx="106" fill="none" stroke="#B87333" stroke-opacity=".35" stroke-width="4"/>
+  <g transform="translate(96 104) scale(3.2)"><path style="fill:#2BA673;stroke:#B87333" fill-rule="evenodd" stroke-width="3" d="M0 7H38.7L50 22.7 61.3 7H100L50 93Z M15.8 16.4H34L44.7 31.7 34 47Z M84.2 16.4H66L55.3 31.7 66 47Z M50 39.5 61 55 50 74 39 55Z"></path>
+  <path style="stroke:#04140E" fill="none" stroke-width="1.2" opacity=".6" d="M6.5 10.8H36.8L50 29.2 63.2 10.8H93.5L50 85.6Z"></path>
+  <g class="vz-eye"><path style="fill:#B87333" d="M50 48.5 57 56 50 63.5 43 56Z"></path><path style="fill:#04140E" d="M50 52.3 53.4 56 50 59.7 46.6 56Z"></path></g></g>
 </svg>
