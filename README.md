@@ -154,12 +154,12 @@ New releases and repacks from FitGirl, DODI, Online-Fix, SteamRIP, ElAmigos and 
 
 ## Lightweight
 
-Measured on Windows 11 (Intel i5-14600K, RTX 5080, 64 games in the library), VEXA plus its web view:
+Measured with VEXA 1.9.47 on Windows 11 (Intel i5-14600K, RTX 5080, 65 games in the library), VEXA plus its web view:
 
 | | RAM in use | CPU (whole PC) |
 |---|---|---|
-| **Min:** closed to the tray, even right after heavy use | about 108 MB | 0.01% on average |
-| **Max:** heavy use: trailers playing, Discover, game pages, Big Screen animations | 1.0 GB at the peak (770 MB on average) | 9.7% at the peak (5% on average) |
+| **Min:** closed to the tray, even right after heavy use | about 80 MB | 0.01% on average |
+| **Max:** four minutes of nonstop heavy use: trailers playing, Discover, game pages, Big Screen animations | about 1.5 GB at the peak (1.2 GB on average) | 12% at the peak (3.3% on average) |
 
 When you close the window, VEXA pauses its page and hands its memory back to Windows. In the background it only keeps the tray icon, playtime tracking and a light hourly refresh of your download sources.
 
