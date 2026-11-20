@@ -24,6 +24,10 @@
 
 <p align="center"><sub>Point at a game and its trailer plays on the cover while the page takes on the game's colours.</sub></p>
 
+<p align="center">
+  <img src="screens/clip-library.webp" width="880" alt="Scrolling the Library, a trailer playing on a cover, and a game starting">
+</p>
+
 ## 13 themes, and you can make your own
 
 Every theme has its own logo, heading font, corners and background pattern. Then mix and match: any logo with any theme, 12 fonts, moving backgrounds, or your own picture or video.
@@ -43,9 +47,17 @@ Every theme has its own logo, heading font, corners and background pattern. Then
   </tr>
 </table>
 
+<p align="center">
+  <img src="screens/clip-themes.webp" width="880" alt="The Library switching through every theme">
+</p>
+
 ## Big Screen for your TV and controller
 
 Twelve layouts, from simple rows to a shelf of real 3D game cases with printed spines. Press Play and the case swings open and lifts the disc out. Music, sounds, downloads and recording all work with the controller.
+
+<p align="center">
+  <img src="screens/clip-big.webp" width="880" alt="Big Screen opening and moving through the games">
+</p>
 
 <table>
   <tr>
